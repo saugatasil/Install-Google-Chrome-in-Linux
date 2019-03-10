@@ -1,4 +1,4 @@
-# Install-Google-Chrome-in-Linux
+# Install-Google-Chrome-If-Not-Detect-Linux
 
 step 1 : apt-get update
 
@@ -15,3 +15,4 @@ step 6 : (add this code beside step 5) --user-data-dir --no-sandbox
 step 7 : ctrl + x to save 
 
 start chrome browser and njoy
+
